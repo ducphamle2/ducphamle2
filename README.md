@@ -5,13 +5,15 @@
 
 - 🔭 I’m currently contributing on [different open-source Oraichain projects](https://github.com/oraichain)
 
-- 🌱 I’m currently studying **Master's degree in Computer Science at Seattle University, Seattle, WA**
+- 🌱 I’m currently studying a **Master's degree in Computer Science at Seattle University, Seattle, WA**
+
+- 👨‍💻 I strive for becoming a **skillful Technical Leader in developing Software products**
 
 - 💬 Ask me about **Typescript, NodeJs, React, Web3, Blockchain, DeFi, Coding Principles, Software Design and Optimization, Software Testing and Management**
 
 - 📫 How to reach me **ducphamle212@gmail.com**
 
-- ⚡ Fun fact **I love writing clean, reusable, and testable code.**
+- ⚡ Fun fact: **I love writing clean, reusable, and testable code.**
 
   <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
