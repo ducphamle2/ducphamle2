@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Le Duc Pham</h1>
 <h3 align="center">A passionate Software and Blockchain Developer from Vietnam</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ducphamle2&label=Profile%20views&color=0e75b6&style=flat" alt="ducphamle2" /> </p>
+
 - 🔭 I’m currently contributing on [different open-source Oraichain projects](https://github.com/oraichain)
 
 - 🌱 I’m currently studying **Master's degree in Computer Science at Seattle University, Seattle, WA**
