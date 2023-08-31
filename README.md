@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ducphamle2&label=Profile%20views&color=0e75b6&style=flat" alt="ducphamle2" /> </p>
 
-- 🔭 I’m currently contributing on [different open-source Oraichain projects](https://github.com/oraichain)
+- 🔭 I’m currently contributing to [different open-source Oraichain projects](https://github.com/oraichain)
 
 - 🌱 I’m currently studying a **Master's degree in Computer Science at Seattle University, Seattle, WA**
 
