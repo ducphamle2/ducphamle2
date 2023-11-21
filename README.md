@@ -36,11 +36,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Rust              16 mins         ████████████▒░░░░░░░░░░░░   49.12 %
-Solidity          7 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.27 %
-Markdown          5 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.90 %
-Go                3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
-Protocol Buffer   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
