@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently contributing to [different open-source Oraichain projects](https://github.com/oraichain)
 
-- 🌱 I’m currently studying for a **Master's degree in Computer Science at Seattle University, Seattle, WA**
+- 🌱 I got a **Master's degree in Computer Science at Seattle University, Seattle, WA**
 
 - 👨‍💻 I strive for becoming a **skillful Technical Leader in developing Software products with thousands of users**
 
