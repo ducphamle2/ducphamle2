@@ -36,11 +36,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Rust              11 hrs          ██████████▒░░░░░░░░░░░░░░   41.94 %
-TypeScript        7 hrs 25 mins   ███████░░░░░░░░░░░░░░░░░░   28.29 %
-Markdown          2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
-Protocol Buffer   1 hr 26 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
-JavaScript        1 hr 20 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
+Rust              13 hrs 32 mins  ███████████░░░░░░░░░░░░░░   43.56 %
+TypeScript        9 hrs 56 mins   ████████░░░░░░░░░░░░░░░░░   31.93 %
+Markdown          1 hr 27 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+Protocol Buffer   1 hr 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
+JavaScript        1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
 ```
 
 <!--END_SECTION:waka-->
