@@ -11,13 +11,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ducphamle2&label=Profile%20views&color=0e75b6&style=flat" alt="ducphamle2" /> </p>
 
-- 🔭 I’m currently contributing to [different open-source Oraichain projects](https://github.com/oraichain)
+- 🔭 I’m currently a Senior Software Engineer at [Oraichain Labs](https://github.com/oraichain)
 
 - 🌱 I got a **Master's degree in Computer Science at Seattle University, Seattle, WA**
 
 - 👨‍💻 I strive for becoming a **skillful Technical Leader in developing Software products with thousands of users**
 
 - 💬 Ask me about **Typescript, NodeJs, React, Web3, Blockchain, DeFi, Coding Principles, Software Design and Optimization, Software Testing and Management**
+
+- Check out my published articles [on Medium[(https://medium.com/@ducphamle212)!
 
 - 📫 How to reach me **ducphamle212@gmail.com**
 
