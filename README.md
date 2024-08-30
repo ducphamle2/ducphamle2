@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Typescript, NodeJs, React, Web3, Blockchain, DeFi, Coding Principles, Software Design and Optimization, Software Testing and Management**
 
-- Check out my published articles [on Medium[(https://medium.com/@ducphamle212)!
+- Check out my published articles [on Medium](https://medium.com/@ducphamle212)!
 
 - 📫 How to reach me **ducphamle212@gmail.com**
 
