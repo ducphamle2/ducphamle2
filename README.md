@@ -38,11 +38,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go                12 hrs 47 mins  ███████████████▓░░░░░░░░░   62.23 %
-Bash              3 hrs 58 mins   █████░░░░░░░░░░░░░░░░░░░░   19.34 %
-TypeScript        2 hrs 34 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.53 %
-Solidity          31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
-Protocol Buffer   19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+Go                10 hrs 12 mins  ███████████████▓░░░░░░░░░   62.08 %
+Bash              3 hrs 17 mins   █████░░░░░░░░░░░░░░░░░░░░   20.07 %
+TypeScript        2 hrs 23 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.51 %
+Protocol Buffer   19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+JavaScript        6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 ```
 
 <!--END_SECTION:waka-->
