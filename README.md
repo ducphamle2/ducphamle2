@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Le Duc Pham</h1>
+<h1 align="center">Hi 👋, I'm Duc Pham</h1>
 <h3 align="center">A passionate Full-stack and Blockchain Engineer</h3>
 
 <div align="center">
