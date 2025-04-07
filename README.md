@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Duc Pham</h1>
-<h3 align="center">A passionate Full-stack and Blockchain Engineer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Le Duc Pham | 💻 Software Engineer | 🛸 Vietnam, US <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Le Duc Pham | Co-Founder @ Oraichain Labs |  💻 Software Engineer @ Oraichain Labs | 🛸 Vietnam, US <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
  <h5 align="center">
@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ducphamle2&label=Profile%20views&color=0e75b6&style=flat" alt="ducphamle2" /> </p>
 
-- 🔭 I’m currently a Software Engineer at [Oraichain Labs](https://github.com/oraichain)
+- 🔭 I’m currently a Co-Founder & Software Engineer at [Oraichain Labs](https://github.com/oraichain)
 
 - 🌱 I got a **Master's degree in Computer Science at Seattle University, Seattle, WA**
 
