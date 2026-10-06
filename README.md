@@ -11,10 +11,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ducphamle2&label=Profile%20views&color=0e75b6&style=flat" alt="ducphamle2" /> </p>
 
-- 🔭 I’m currently a Co-Founder & Software Engineer at [Oraichain Labs](https://github.com/oraichain)
-
-- 🌱 I got a **Master's degree in Computer Science at Seattle University, Seattle, WA**
-
 - 👨‍💻 I strive for becoming a **skillful Technical Leader in developing Software products with thousands of users**
 
 - 💬 Ask me about **Typescript, NodeJs, React, Web3, Blockchain, DeFi, Coding Principles, Software Design and Optimization, Software Testing and Management**
@@ -24,12 +20,6 @@
 - 📫 How to reach me **ducphamle212@gmail.com**
 
 - ⚡ Fun facts: **I love writing clean, reusable, and testable code. I am surprisingly good and focused in stressful situations, which I found out after several on-call occasions**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ducphamle/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ducphamle/" height="30" width="40" /></a>
-</p>
 
   <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
