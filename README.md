@@ -28,8 +28,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other      10 mins               █████████████████▒░░░░░░░   69.42 %
-Markdown   4 mins                ███████▓░░░░░░░░░░░░░░░░░   30.58 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
